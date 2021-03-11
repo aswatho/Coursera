@@ -3,10 +3,6 @@
 	box-sizing: border-box;
 }
 
-body{
-	background-image: url("Image/Pony.jpg");
-}
-
 h1{
 	margin-bottom: 15px;
 	text-align: center;
